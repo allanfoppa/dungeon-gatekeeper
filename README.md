@@ -18,10 +18,16 @@ If you are looking to understand the mechanics, flow, and design decisions behin
 
 ---
 
-### 🛠️ Tech Stack & Key Concepts
+## 🛠️ Tech Stack & Key Concepts
 
 * **Framework:** NestJS (TypeScript) & Passport.js
 * **Patterns:** Vertical Slice (`auth/` vs `features/`)
 * **Security Pillars:** JWT State Management, RBAC, Dynamic Claims-Based Access, Step-Up Auth, Token Revocation (Blacklisting `jti`), and Rate Limiting.
 
 ---
+
+## Acknowledgments
+
+A thanks to a tools that help me:
+
+- **Logo:** Generated with the assistance of **Gemini (Google AI)**.
